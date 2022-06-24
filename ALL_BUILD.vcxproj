@@ -165,6 +165,7 @@ if %errorlevel% neq 0 goto :VCEnd</Command>
     </CustomBuild>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="..\mesh_shortest_path.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="C:\mesh-shortest-path\build\ZERO_CHECK.vcxproj">

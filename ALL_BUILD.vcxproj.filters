@@ -4,5 +4,6 @@
     <CustomBuild Include="C:\mesh-shortest-path\CMakeLists.txt" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="..\mesh_shortest_path.cpp" />
   </ItemGroup>
 </Project>
