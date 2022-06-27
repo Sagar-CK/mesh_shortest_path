@@ -1,7 +1,7 @@
 # mesh_shortest_path
 This repository contains the source code for rough extrema estimation given a source human body point cloud/mesh. The following project is coded in C#/C++ and the build is facilitated using **CMake**. 
 
-To use this repository a version of **Visual Studio (2019 and earlier), happly.h header, and reference point clouds** are required.
+To use this repository a version of **Visual Studio (2019 and earlier), happly.h header, Point Cloud Library (PCL), and reference point clouds** are required.
 
 Requirements  | Download
 ------------- | -------------
